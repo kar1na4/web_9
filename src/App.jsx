@@ -4,13 +4,13 @@ import './App.css';
 
 function App() {
   const cardData = {
-    image: "assets/images/BlogImage.png",
+    image: "/web_9/assets/images/BlogImage.png",
     category: "HTML & CSS",
     date: "Публікація 1 Вересня 2025",
     title: "Практична №3",
     description: "Мета практичної роботи полягає в тому, щоб налаштувати середовище розробки VS Code, а також реалізувати картку блогу для вдосконалення фундаментальних навичок з HTML та CSS.",
     author: {
-      avatar: "assets/images/avatar-femail.png",
+      avatar: "/web_9/assets/images/avatar-femail.png",
       name: "Васильченко Каріна"
     }
   };
